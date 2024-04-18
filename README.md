@@ -23,18 +23,13 @@ This portfolio project explores the SpaceX missions dataset, which contains reco
 
 - Plotted the number of launches over time to analyze launch frequency trends
 - Visualized the success rates of missions to identify patterns or changes over time
-- Analyzed the distribution of payload types to understand the types of payloads carried during SpaceX missions
+- Analyzed the distribution of payloads to understand the types of payloads carried during SpaceX missions
 - Created various other visualizations to explore different aspects of the data
 
 ### Statistical Analysis
 
 - Conducted statistical analyses to identify patterns, correlations, or trends in the data
 - Examined relationships between different variables and their impact on mission outcomes
-
-### Predictive Modeling (Optional)
-
-- Built predictive models to forecast future mission outcomes or launch frequencies based on historical data
-- Evaluated the performance of the models and discussed their implications
 
 ## Technologies Used
 
